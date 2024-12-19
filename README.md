@@ -1,12 +1,12 @@
 # DSA210
 
-Perfect Sleep Routine
+## Perfect Sleep Routine
 
-Project Purpose
+### Project Purpose
 
 The main purpose of this project is to analyze the effects of daily habits on sleep quality. It aims to determine the factors that increase or decrease sleep quality through the collected data and to optimize individual sleep patterns.
 
-Data Set
+### Data Set
 
 Source:
 The data set was created by tracking individual daily habits. Data was recorded regularly for two months.
@@ -14,8 +14,7 @@ The data set was created by tracking individual daily habits. Data was recorded 
 Scope:
 The data set contains 40 daily records and a total of 18 features.
 
-
-Project Plan
+### Project Plan
 
 Data Collection and Cleaning:
 Incomplete and Inconsistent Data cleaned. Numerical and categorical variables were converted to appropriate formats.
@@ -29,7 +28,7 @@ Visualization was made with scatter plot, boxplot and violin plot. Factors affec
 Results and Recommendations:
 Recommendations were developed by interpreting the findings.
 
-Tools and Technologies Used
+### Tools and Technologies Used
 
 Python:
 Data analysis and modeling.
@@ -43,7 +42,7 @@ Statsmodels: Regression analysis.
 Jupyter Notebook:
 Code viewing and analysis environment.
 
-Findings Obtained
+### Findings Obtained
 
 Factors Affecting Sleep Quality:
 Longer sleep durations increase sleep quality. Activities performed after waking up have a significant effect on sleep quality.
@@ -57,7 +56,7 @@ More sleep interruptions increase the time to fall asleep.
 Energy Level:
 Higher quality sleep and longer sleep durations are associated with higher energy levels.
 
-Project Limitations and Future Work
+### Project Limitations and Future Work
 
 Limitations:
 Data was collected individually and may not be sufficient to make generalizations. Long-term effects could not be observed because it covered a short time period.
@@ -65,6 +64,6 @@ Data was collected individually and may not be sufficient to make generalization
 Future Work:
 Generalize the analyses with a larger and more diverse data set. Develop predictive models with machine learning algorithms.
 
-Project Repository
+### Project Repository
 
 You can access the project codes and visualizations via the GitHub project: []
