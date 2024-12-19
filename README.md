@@ -2,7 +2,7 @@
 
 Perfect Sleep Routine
 
-#Project Purpose
+Project Purpose
 
 The main purpose of this project is to analyze the effects of daily habits on sleep quality. It aims to determine the factors that increase or decrease sleep quality through the collected data and to optimize individual sleep patterns.
 
