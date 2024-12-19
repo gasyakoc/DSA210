@@ -1,46 +1,4 @@
 # DSA210
-Perfect Sleep Routine
-
-Project Purpose
-
-The aim of this project is to investigate the common assumptions that affect sleep quality by analyzing my daily habits. By this analysis, I will try to find habits and patterns that significantly improve sleep quality. The final goal is to design a personalized "Perfect Sleep Routine".
-
-Dataset Description
-
-I have tracked over a two-month period many daily habits that may influence sleep quality. The dataset encompasses a range of variables including numerical, categorical, and time-based information. It was painstakingly recorded in order to make sure that the analysis based on this dataset is valid and reliable.
-
-Project Plan
-
-Data Collection: Two months of recording daily habits
-
-Exploratory Data Analysis: Finding the pattern/relationship between habits and sleep quality.
-
-Feature Engineering: Prepare the data for modeling by creating relevant features.
-
-Modeling:
-Test the hypotheses using statistical methods and machine learning techniques.
-Assess the effect of habits to improve the quality of sleep.
-Findings and Recommendations:
-Summarize the findings.
-Create a personalized sleep routine based on findings.
-Future Work
-Improve accuracy of analysis with longer-term data collection.
-Experiment with more variables introduced such as stress level, diet, etc.
-
-Tools and Techniques
-
-Python: Data pre-processing, analysis, and visualization.
-
-Libraries used: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn.
-
-GitHub is used for version control and the publication of results.
-
-Motivation
-
-Sleep quality understanding and improvement is so important in the context of maintaining mental and physical health. Hence, the project may assist not only in personal outcome improvements but also present some recommendations to everybody willing to optimize sleep by picking up effective habits.
-
-
-
 
 Perfect Sleep Routine
 
