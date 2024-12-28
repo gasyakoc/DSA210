@@ -65,5 +65,6 @@ Future Work:
 Generalize the analyses with a larger and more diverse data set. Develop predictive models with machine learning algorithms.
 
 ### Project Repository
+![Sleep Quality vs Stress Level](path-to-your-image.png)
 
 You can access the project codes and visualizations via the GitHub project: []
