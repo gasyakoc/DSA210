@@ -63,7 +63,3 @@ Data was collected individually and may not be sufficient to make generalization
 
 Future Work:
 Generalize the analyses with a larger and more diverse data set. Develop predictive models with machine learning algorithms.
-
-### Project Repository
-
-You can access the project codes and visualizations via the GitHub project: []
