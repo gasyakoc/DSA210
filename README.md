@@ -39,7 +39,7 @@ Matplotlib, Seaborn: Visualization.
 
 Statsmodels: Regression analysis.
 
-Jupyter Notebook:
+Colab:
 Code viewing and analysis environment.
 
 ### Findings Obtained
